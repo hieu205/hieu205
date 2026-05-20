@@ -1,53 +1,37 @@
-<h1 align="center">Hi 👋, I'm Hieu</h1>
+<h1 align="left">👋 Hi! My name is Hieu</h1>
 
-<h3 align="center">
-Backend Java Developer | PTIT Student
-</h3>
+## Backend Java Developer | PTIT Student
 
----
-
-## 🚀 About Me
-
-- 🎓 Student at Posts and Telecommunications Institute of Technology (PTIT)
-- 💻 Passionate about Backend Development
-- 🌱 Currently learning Spring Boot, System Design, and Data Engineering
-- ⚡ Interested in building scalable backend systems
+- 🌏 I'm based in Ha Noi
+- 📧 Contact me at: doanminhhieu08022005@gmail.com
+- 💻 I'm learning Backend Development, Spring Boot, Data Engineering
+- 🚀 Interested in scalable backend systems
+- 🤝 Open to collaborating on backend projects
 
 ---
 
-## 🛠 Tech Stack
+## Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgres,docker,git,github,linux,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,mysql,mongodb,docker,git,github,linux,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## Socials
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hieu205&show_icons=true&theme=tokyonight" />
-</p>
+<p align="left">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieu205&theme=tokyonight" />
-</p>
+  <a href="https://github.com/hieu205">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
----
-
-## 🌐 Connect with me
-
-<p align="center">
   <a href="https://linkedin.com">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
+  <a href="https://facebook.com/yourfacebook">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="48" />
+  </a>
+
 </p>
-
----
-
-## 🔥 Featured Projects
-
-- 📚 Library Management System
-- 🗜 Huffman Compression using Python
-- 🛒 AgriShop E-commerce System
-- 📊 Data Pipeline with Python & SQL Server
